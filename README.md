@@ -84,9 +84,3 @@ Although the ER diagram isn't included, the general relationships are:
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
-
-```
-
